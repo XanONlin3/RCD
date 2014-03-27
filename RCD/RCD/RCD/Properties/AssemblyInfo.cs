@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RunningfromCertainDeath")]
-[assembly: AssemblyProduct("RunningfromCertainDeath")]
+[assembly: AssemblyTitle("RCD")]
+[assembly: AssemblyProduct("RCD")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyCopyright("Copyright © Toshiba 2014")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 // On Windows, the following GUID is for the ID of the typelib if this
 // project is exposed to COM. On other platforms, it unique identifies the
 // title storage container when deploying this assembly to the device.
-[assembly: Guid("5aa2c271-f802-4b83-a6da-008217753fad")]
+[assembly: Guid("dcb2b5dc-0070-4438-b498-abda4200e970")]
 
 // Version information for an assembly consists of the following four values:
 //

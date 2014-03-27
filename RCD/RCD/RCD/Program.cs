@@ -1,6 +1,6 @@
 using System;
 
-namespace RunningfromCertainDeath
+namespace RCD
 {
 #if WINDOWS || XBOX
     static class Program
