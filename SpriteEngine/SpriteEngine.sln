@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteEngine", "SpriteEngine\SpriteEngine\SpriteEngine.csproj", "{48360B70-6A25-48BA-BFB0-D109F5065E26}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpriteEngineContent", "SpriteEngine\SpriteEngineContent\SpriteEngineContent.contentproj", "{4C4992B5-6FE1-4AC6-B69E-8CF422D06A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48360B70-6A25-48BA-BFB0-D109F5065E26}.Debug|x86.ActiveCfg = Debug|x86
+		{48360B70-6A25-48BA-BFB0-D109F5065E26}.Debug|x86.Build.0 = Debug|x86
+		{48360B70-6A25-48BA-BFB0-D109F5065E26}.Release|x86.ActiveCfg = Release|x86
+		{48360B70-6A25-48BA-BFB0-D109F5065E26}.Release|x86.Build.0 = Release|x86
+		{4C4992B5-6FE1-4AC6-B69E-8CF422D06A43}.Debug|x86.ActiveCfg = Debug|x86
+		{4C4992B5-6FE1-4AC6-B69E-8CF422D06A43}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

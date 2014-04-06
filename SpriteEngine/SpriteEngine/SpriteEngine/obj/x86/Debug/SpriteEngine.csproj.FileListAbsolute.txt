@@ -1,0 +1,9 @@
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\SpriteEngine.csprojResolveAssemblyReference.cache
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\SpriteEngine.exe
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\SpriteEngine.pdb
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\SpriteEngine.exe
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\SpriteEngine.pdb
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running.xnb
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running2.xnb
+c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running3.xnb
