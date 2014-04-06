@@ -5,6 +5,15 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
+
+/*
+ * The purpose of this class is to:
+ * Provide an interface to the SpriteAnimation objects below
+ * Move sprites at a defined speed towards a targeted point
+ * Allow a "path" of points to be assigned to a sprite
+ * Provide collision information
+ */
+
 namespace SpriteEngine
 {
     class MobileSprite

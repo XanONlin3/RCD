@@ -5,6 +5,14 @@ using System.Text;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 
+/*
+ * The purpose of this class is to:
+ * Track the position of the sprite on the screen
+ * Hold the actual sprite sheet the sprite is drawn from
+ * Manage all FrameAnimations associated with the sprite
+ */
+
+
 namespace SpriteEngine
 {
     class SpriteAnimation

@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
+/*
+ * The purpose of this class is to keep
+ * track of the individual frames of each 
+ * of our uniquely named sprites
+ */
+
 namespace SpriteEngine
 {
     class FrameAnimation : ICloneable
