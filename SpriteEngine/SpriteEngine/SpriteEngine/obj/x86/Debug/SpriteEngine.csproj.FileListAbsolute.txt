@@ -7,3 +7,12 @@ c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\Sprite
 c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running.xnb
 c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running2.xnb
 c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running3.xnb
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running.xnb
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running2.xnb
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running3.xnb
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\SpriteEngine.exe
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\SpriteEngine.pdb
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\SpriteEngine.csprojResolveAssemblyReference.cache
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\SpriteEngine.exe
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\obj\x86\Debug\SpriteEngine.pdb

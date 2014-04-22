@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running.xnb</Output>
+      <Output>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running.xnb</Output>
       <Time>2014-04-06T14:14:22.9778161-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running2.xnb</Output>
+      <Output>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running2.xnb</Output>
       <Time>2014-04-06T14:53:45.2699314-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running3.xnb</Output>
+      <Output>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\running3.xnb</Output>
       <Time>2014-04-06T15:12:30.3682834-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -34,10 +34,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngineContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngineContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngineContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngine\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

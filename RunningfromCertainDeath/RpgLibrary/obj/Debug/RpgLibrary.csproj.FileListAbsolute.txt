@@ -1,0 +1,4 @@
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\RpgLibrary\obj\Debug\RpgLibrary.pdb

@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\gameFont.spritefont</Source>
+      <Name>Fonts\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Fonts\gameFont.xnb</Output>
+      <Time>2014-04-17T17:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menuFont.spritefont</Source>
+      <Name>Fonts\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Fonts\menuFont.xnb</Output>
+      <Time>2014-04-17T17:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\helpFont.spritefont</Source>
+      <Name>Fonts\helpFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Fonts\helpFont.xnb</Output>
+      <Time>2014-04-17T17:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\smallMenuFont.spritefont</Source>
+      <Name>Fonts\smallMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Fonts\smallMenuFont.xnb</Output>
+      <Time>2014-04-17T17:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\creditFont.spritefont</Source>
+      <Name>Fonts\creditFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Fonts\creditFont.xnb</Output>
+      <Time>2014-04-18T14:18:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\JKTaDemoLogo.png</Source>
+      <Name>Images\JKTaDemoLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Images\JKTaDemoLogo.xnb</Output>
+      <Time>2014-04-17T17:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenCrack.png</Source>
+      <Name>Images\ScreenCrack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Images\ScreenCrack.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\CityLevel\sword city.jpg</Source>
+      <Name>Maps\CityLevel\sword city</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Maps\CityLevel\sword city.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\running3.png</Source>
+      <Name>Images\running3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Images\running3.xnb</Output>
+      <Time>2014-04-22T12:08:56.0444539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_1.jpg</Source>
+      <Name>Textures\Plaques\plaque_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_1.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_10.jpg</Source>
+      <Name>Textures\Plaques\plaque_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_10.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_11.jpg</Source>
+      <Name>Textures\Plaques\plaque_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_11.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_12.jpg</Source>
+      <Name>Textures\Plaques\plaque_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_12.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_2.jpg</Source>
+      <Name>Textures\Plaques\plaque_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_2.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_3.jpg</Source>
+      <Name>Textures\Plaques\plaque_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_3.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_4.jpg</Source>
+      <Name>Textures\Plaques\plaque_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_4.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_5.jpg</Source>
+      <Name>Textures\Plaques\plaque_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_5.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_6.jpg</Source>
+      <Name>Textures\Plaques\plaque_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_6.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_7.jpg</Source>
+      <Name>Textures\Plaques\plaque_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_7.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_8.jpg</Source>
+      <Name>Textures\Plaques\plaque_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_8.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plaques\plaque_9.jpg</Source>
+      <Name>Textures\Plaques\plaque_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Plaques\plaque_9.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Enemy\enemy_0.png</Source>
+      <Name>Textures\Tiles\Enemy\enemy_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Enemy\enemy_0.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\door.png</Source>
+      <Name>Textures\Tiles\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\door.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\platform.png</Source>
+      <Name>Textures\Tiles\platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\platform.xnb</Output>
+      <Time>2014-04-17T17:11:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\mainMenuBG.png</Source>
+      <Name>Textures\Menu\mainMenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Menu\mainMenuBG.xnb</Output>
+      <Time>2014-04-18T15:46:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Help\keyboardLayout.png</Source>
+      <Name>Textures\Help\keyboardLayout</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Help\keyboardLayout.xnb</Output>
+      <Time>2014-04-18T20:03:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Enemy\enemy_1.png</Source>
+      <Name>Textures\Tiles\Enemy\enemy_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Enemy\enemy_1.xnb</Output>
+      <Time>2014-04-19T00:27:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemy_1.png</Source>
+      <Name>Images\enemy_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Images\enemy_1.xnb</Output>
+      <Time>2014-04-19T01:46:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Enemy\enemy_2.png</Source>
+      <Name>Textures\Tiles\Enemy\enemy_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Enemy\enemy_2.xnb</Output>
+      <Time>2014-04-20T22:16:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\hornyFungi.png</Source>
+      <Name>Textures\Tiles\hornyFungi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\hornyFungi.xnb</Output>
+      <Time>2014-04-21T09:19:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mouseCursor.png</Source>
+      <Name>Images\mouseCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Images\mouseCursor.xnb</Output>
+      <Time>2014-04-21T09:44:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Plaques\plaque.png</Source>
+      <Name>Textures\Tiles\Plaques\plaque</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Plaques\plaque.xnb</Output>
+      <Time>2014-04-21T09:47:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Items\item_1.png</Source>
+      <Name>Textures\Tiles\Items\item_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Items\item_1.xnb</Output>
+      <Time>2014-04-21T09:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Items\item_2.png</Source>
+      <Name>Textures\Tiles\Items\item_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Items\item_2.xnb</Output>
+      <Time>2014-04-21T09:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\Items\item_3.png</Source>
+      <Name>Textures\Tiles\Items\item_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\Textures\Tiles\Items\item_3.xnb</Output>
+      <Time>2014-04-21T09:58:34-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeathContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeathContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\AS143_student\Downloads\RCD 4_21\RCD\RunningfromCertainDeath\RunningfromCertainDeath\RunningfromCertainDeath\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-26T08:29:57.6790815-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,5 @@
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+C:\Users\Nini\Documents\Visual Studio 2010\Projects\RunningfromCertainDeath\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb

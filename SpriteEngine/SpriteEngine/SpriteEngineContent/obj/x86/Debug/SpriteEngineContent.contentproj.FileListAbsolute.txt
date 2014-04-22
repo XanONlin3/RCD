@@ -1,1 +1,2 @@
 c:\users\as143_student\documents\visual studio 2010\Projects\SpriteEngine\SpriteEngine\SpriteEngineContent\obj\x86\Debug\SpriteEngineContent.contentprojResolveAssemblyReference.cache
+C:\Users\AS143_student\Documents\GitHub\RCD\SpriteEngine\SpriteEngine\SpriteEngineContent\obj\x86\Debug\SpriteEngineContent.contentprojResolveAssemblyReference.cache
